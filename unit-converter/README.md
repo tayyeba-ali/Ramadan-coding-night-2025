@@ -1,6 +1,3 @@
-Here’s a shorter version of the `README.md` for your Unit Converter:
-
-```markdown
 # Unit Converter
 
 A simple Unit Converter app built with Python, Streamlit, and UV. Convert between various units like length, weight, temperature, and volume with ease.
